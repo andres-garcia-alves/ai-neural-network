@@ -9,8 +9,7 @@ A demo proyect using Python 3 and Keras+Tensorflow 2.12 for images recognition, 
 | Name                    | Description                                                                     |
 |-------------------------|---------------------------------------------------------------------------------|
 | image-classification    | Image recognition model, based on FASHION_MNIST dataset.                        |
-| text-classification     | Text classification (positive/negative) model, based on IMDB sentiment dataset.
-A chat-bot app for this model is also provided. |
+| text-classification     | Text classification (positive/negative) model, based on IMDB sentiment dataset. A chat-bot app for this model is also provided. |
 
 &nbsp;
 
