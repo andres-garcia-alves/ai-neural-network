@@ -1,6 +1,6 @@
 # Demo AI Neural Network
 
-A demo proyect using Keras &amp; Tensorflow for images recognition, comments clasification (positive/negative), and so on.
+A demo proyect using Python 3 and Keras+Tensorflow 2.12 for images recognition, comments clasification (positive/negative), and so on.
 
 &nbsp;
 
